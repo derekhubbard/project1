@@ -8,3 +8,4 @@ Adding a second line of text.
 
 Scenario 4
 Modifying a file, and then pushing changes to git remote first, before pushing to svn remote.
+Commiting file again.
