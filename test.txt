@@ -5,3 +5,6 @@ This is the first commit using git-svn. This was committed from the develop bran
 Second scenario
 Adding one line of text. This is committed by itself.
 Adding a second line of text.
+
+Scenario 4
+Modifying a file, and then pushing changes to git remote first, before pushing to svn remote.
